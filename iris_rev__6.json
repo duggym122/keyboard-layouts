@@ -32,8 +32,8 @@
       "KC_NO",
       "KC_LEFT",
       "KC_UP",
-      "KC_LGUI",
       "KC_SPC",
+      "KC_LGUI",
       "KC_BSPC",
       "KC_0",
       "KC_9",
@@ -52,7 +52,7 @@
       "KC_K",
       "KC_J",
       "KC_H",
-      "OSL(1)",
+      "MO(1)",
       "KC_SLSH",
       "KC_DOT",
       "KC_COMM",
@@ -62,8 +62,8 @@
       "KC_NO",
       "KC_RGHT",
       "KC_UP",
-      "KC_RALT",
-      "KC_ENT"
+      "KC_ENT",
+      "KC_RALT"
     ],
     [
       "KC_GRV",
@@ -115,7 +115,7 @@
       "KC_NO",
       "KC_NO",
       "TG(0)",
-      "KC_NO",
+      "KC_MINS",
       "KC_RBRC",
       "KC_LBRC",
       "KC_NO",
